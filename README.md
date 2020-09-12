@@ -6,4 +6,4 @@
 
 ## ✨ 현재 진행 상황
 
-![practice](https://user-images.githubusercontent.com/69616347/92997286-1ad9f500-f54d-11ea-815b-9ac853f6a7a2.gif)
+<img src="https://user-images.githubusercontent.com/69616347/92997286-1ad9f500-f54d-11ea-815b-9ac853f6a7a2.gif" width="400">
